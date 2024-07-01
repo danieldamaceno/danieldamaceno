@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Daniel Damaceno 👋
 
+Sou um profissional apaixonado por tecnologia, com experiência sólida em desenvolvimento web e um amplo conjunto de habilidades em várias áreas da programação. Possuo conhecimentos avançados em linguagens como HTML, CSS, JavaScript Node.js, o que me permite criar interfaces web dinâmicas e funcionais. Estou estudando também react.js. Além disso, domino técnicas avançadas de banco de dados, garantindo a eficiência e a segurança dos sistemas que desenvolvo. Minha jornada no mundo do desenvolvimento também inclui a operação de uma loja online, onde aplico minhas habilidades para aprimorar processos de desenvolvimento e oferecer uma experiência excepcional aos clientes. Estou ávido por oportunidades desafiadoras na área de front-end, onde possa aplicar e expandir meu conhecimento técnico, colaborando com equipes dinâmicas em projetos inovadores. Estou determinado a contribuir de forma significativa em um ambiente que valorize a excelência técnica e a criatividade. Estou atualmente em busca de oportunidades profissionais na área de programação e estou pronto para me dedicar integralmente a novos desafios..
 
 Front-end developer 💻
 
